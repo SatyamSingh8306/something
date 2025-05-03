@@ -1,0 +1,201 @@
+{
+    "name": "Satyam Singh",
+    "graduation": "B.Tech in Computer Science",
+    "specialization": "Machine Learning",
+    "experience_level": "Intermediate",
+    "description": "Aspiring AI/ML Intern with hands-on experience in LLMs, Computer Vision, and Deep Learning. Passionate about building scalable AI solutions and contributing to impactful real-world projects.",
+    "email": "satyamsingh7734@gmail.com",
+    "phone": "+91 9918437706",
+    "location": null,
+    "skills": [
+        {
+            "name": "Python",
+            "level": "Advanced"
+        },
+        {
+            "name": "Java",
+            "level": "Intermediate"
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Machine Learning",
+            "level": "Advanced"
+        },
+        {
+            "name": "Deep Learning",
+            "level": "Advanced"
+        },
+        {
+            "name": "Natural Language Processing (NLP)",
+            "level": "Advanced"
+        },
+        {
+            "name": "Computer Vision",
+            "level": "Advanced"
+        },
+        {
+            "name": "LLMs",
+            "level": "Advanced"
+        },
+        {
+            "name": "RAG",
+            "level": "Advanced"
+        },
+        {
+            "name": "Neural Networks",
+            "level": "Advanced"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Artificial Intelligence Intern",
+            "company": "Edunet Foundation (AICTE MS AINSI Program)",
+            "duration": "April 2025 – Present",
+            "description": "Selected for a 4-week AI internship by AICTE & Edunet Foundation, involving hands-on learning of supervised/unsupervised learning, generative AI using Azure, and deep learning."
+        },
+        {
+            "title": "Software Development Intern",
+            "company": "Sasefied",
+            "duration": "April 2025 – Present",
+            "description": "Developing an AI-powered Resume & CV Builder that tailors resumes based on job descriptions and integrates LinkedIn sourcing APIs for talent mapping."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech in Computer Science",
+            "institution": "National Institute of Technology Nagaland",
+            "year": "Expected Graduation, May 2027",
+            "cgpa": 9.85
+        }
+    ],
+    "projects": [
+        {
+            "title": "WebMind – AI-Powered Web Agent",
+            "tools": [
+                "LangChain",
+                "Python",
+                "Gemini2 Flash",
+                "BeautifulSoup",
+                "LLMs"
+            ],
+            "description": "Built an autonomous web browsing agent using LangChain's framework and Gemini2 Flash, enabling step-wise reasoning and real-time insights generation similar to WebGPT."
+        },
+        {
+            "title": "MedicalDAS2.0 – AI-Powered Healthcare Assistant",
+            "tools": [
+                "Python",
+                "Gradio",
+                "TensorFlow",
+                "OpenCV",
+                "ElevenLabs",
+                "GROQ API"
+            ],
+            "description": "Developed a multimodal AI medical assistant that analyzes patient images and processes voice queries in real-time, combining LLMs with computer vision for X-ray and report diagnostic analysis."
+        },
+        {
+            "title": "MedicalDAS – RAG Application Chatbot",
+            "tools": [
+                "Streamlit",
+                "FAISS",
+                "LangChain",
+                "Mitral-7B",
+                "PDF Loader"
+            ],
+            "description": "Built a Retrieval-Augmented Generation (RAG) chatbot that answers queries from medical PDFs, integrating Mitral-7B API with LangChain for context-aware response generation."
+        },
+        {
+            "title": "Car Counter Using YOLO",
+            "tools": [
+                "Python",
+                "OpenCV",
+                "Ultralytics YOLO"
+            ],
+            "description": "Built a real-time vehicle detection and counting system using YOLOv8 and OpenCV, processing live and recorded video streams across traffic intersections and parking lots."
+        },
+        {
+            "title": "Credit Scoring Model Development",
+            "tools": [
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "Flask"
+            ],
+            "description": "Created a machine learning model to predict borrower creditworthiness using Gradient Boosting Classifier, achieving ~80% accuracy through comprehensive feature engineering, EDA, and model tuning."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "GitHub Foundation",
+            "issuer": "GitHub",
+            "date": null
+        },
+        {
+            "name": "Machine Learning with Python Level1",
+            "issuer": "IBM",
+            "date": null
+        },
+        {
+            "name": "Python and Problem Solving",
+            "issuer": "Hacker Rank",
+            "date": null
+        },
+        {
+            "name": "Introduction to Programming Using HTML/CSS",
+            "issuer": "Cognitive Class",
+            "date": null
+        },
+        {
+            "name": "AI with Python",
+            "issuer": "Infosys Springboard",
+            "date": null
+        },
+        {
+            "name": "100 Days of Machine Learning",
+            "issuer": "Campus X",
+            "date": null
+        },
+        {
+            "name": "100 Days of Deep Learning",
+            "issuer": "Campus X",
+            "date": null
+        },
+        {
+            "name": "AI Agent Foundation",
+            "issuer": "Hugging Face",
+            "date": null
+        },
+        {
+            "name": "Sigma Web Development",
+            "issuer": "Code with Harry",
+            "date": null
+        }
+    ],
+    "social_profiles": [
+        {
+            "platform": "LinkedIn",
+            "url": "linkedin.com/in/satyam8306"
+        },
+        {
+            "platform": "GitHub",
+            "url": "github.com/SatyamSingh8306"
+        },
+        {
+            "platform": "HuggingFace",
+            "url": "huggingface.co/aicinema69"
+        },
+        {
+            "platform": "Kaggle",
+            "url": "kaggle.com/satyamsingh8306"
+        }
+    ],
+    "achievements": [
+        "Assistant Coding Secretary at NIT Nagaland; organized tech fests and secured second position in the 'Treasure Hunt' coding competition, demonstrating leadership and problem-solving abilities.",
+        "Collaborating on a faculty-supervised research project in deep learning and computer vision while maintaining academic excellence with a 9.85 CGPA, ranking among top CS department performers.",
+        "Completed and deployed multiple real-world AI projects including LLM implementations, RAG-based systems, YOLO object detection, and multimodal AI solutions."
+    ],
+    "languages": null,
+    "interests": null
+}
