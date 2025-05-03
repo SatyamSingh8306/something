@@ -4,3 +4,6 @@
 ***textEditing.py*** -> this include things like loading document from pdfs and loading model and giving it to model with a dynamic prompt with sequential chain and genrating response in json format.
 
 ***main.py*** -> chaining the end to end steps one by one just for trail
+
+
+***feedbackFormat.py*** - > currently under process. It include giving reponse in particular format.
